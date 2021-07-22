@@ -24,4 +24,4 @@ Here is a growing collection of resources and helpful commands to know when work
 - [gitignore Documentation](https://git-scm.com/docs/gitignore)
 - [git Branches](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
 - [Video on branching](https://www.youtube.com/watch?v=JTE2Fn_sCZs)
-- [git Basics](https://towardsdatascience.com/an-easy-beginners-guide-to-git-2d5a99682a4c)
+- [git Basics](https://medium.com/cs-code/beginners-guide-to-using-git-8e5001791fa6)
